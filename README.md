@@ -36,11 +36,11 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+ write all the steps invloved 
 
 **PROGRAM**
 ```
-/* exp_5
+ 
 module  exp_5(din,a,b,c);
 input [0:7] din;
 output a,b,c;
@@ -50,9 +50,9 @@ assign c=(din[1]|din[3]|din[5]|din[7]);
 endmodule
 ``` 
 
-Developed by: Priya Dharshini R
-RegisterNumber: 212224050033
-*/
+Developed by: Rithish.P
+
+RegisterNumber: 212223230173
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
@@ -67,6 +67,5 @@ RegisterNumber: 212224050033
 **RESULTS**
 
  Thus To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
-
 
 
